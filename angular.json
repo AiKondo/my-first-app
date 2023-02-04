@@ -30,6 +30,7 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/kondouai/Documents/Sites/my-first-app/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -93,6 +94,7 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/kondouai/Documents/Sites/my-first-app/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
